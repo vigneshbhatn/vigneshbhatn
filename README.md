@@ -5,17 +5,15 @@
 
 - 🌱 I’m currently learning **Tableau,AWS**
 
-- 👯 I’m looking to collaborate on **Image Inpainting,Data Science**
+- 👯 I’m looking to collaborate on **Image Inpainting,Data Science,Backend Development**
 
 - 🤝 I’m looking for help with **Data stuff (Analytics,Science)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vigneshbhatn](https://github.com/vigneshbhatn)
-
-- 💬 Ask me about **Powerbi,Tableau,**
+- 💬 Ask me about **Powerbi,Data Analytics,Java Programming**
 
 - 📫 How to reach me **vigneshbhatn27@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/166G4GDYMxW8tZj8VJ-YTwRjxkLXpTXPV/view?usp=sharing](https://drive.google.com/file/d/166G4GDYMxW8tZj8VJ-YTwRjxkLXpTXPV/view?usp=sharing)
+- 📄 Resume: [https://drive.google.com/file/d/166G4GDYMxW8tZj8VJ-YTwRjxkLXpTXPV/view?usp=sharing](https://drive.google.com/file/d/166G4GDYMxW8tZj8VJ-YTwRjxkLXpTXPV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
