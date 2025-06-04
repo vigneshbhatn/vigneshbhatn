@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vignesh Bhat N</h1>
-<h3 align="center">CS Engineer | AI & Startup Enthusiast | Lifestyle Hacker</h3>
+<h3 align="center">CS Engineer | AI & Data Science Enthusiast | Lifestyle Hacker | Analytics and Dashboards</h3>
 
 - 🔭 I’m currently working on [AI Finance Tracker](https://github.com/vigneshbhatn/ai-finance-tracker)
 
-- 🌱 I’m currently learning **Tableau,AWS**
+- 🌱 I’m currently learning **Streamlit,FastAPI,AWS**
 
 - 👯 I’m looking to collaborate on **Image Inpainting,Data Science,Backend Development**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Powerbi,Data Analytics,Java Programming**
 
-- 📫 How to reach me **vigneshbhatn27@gmail.com**
+- 📫 Reach me **vigneshbhatn27@gmail.com**
 
 - 📄 Resume: [Vignesh Bhat N Resume](https://drive.google.com/file/d/19rqEXiNh2TIBsO_DZ5QXlLagtvotCOnx/view?usp=sharing)
 
