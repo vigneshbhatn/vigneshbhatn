@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vignesh Bhat N</h1>
 <h3 align="center">CS Engineer | AI & Data Science Enthusiast | Lifestyle Hacker | Analytics and Dashboards</h3>
 
-- 🔭 I’m currently working on [AI Finance Tracker](https://github.com/vigneshbhatn/ai-finance-tracker)
+- 🔭 I’m currently working on [AI Finance Tracker](https://github.com/vigneshbhatn/ai-finance-tracker) [Reconstruction of ancient kannada inscriptions](https://github.com/vigneshbhatn/Ancient_Inscription_Reconstruction)
 
 - 🌱 I’m currently learning **Streamlit,FastAPI,AWS**
 
-- 👯 I’m looking to collaborate on **Image Inpainting,Data Science,Backend Development**
+- 👯 I’m looking to collaborate on **LLMs,Data Science,Backend Development**
 
 - 🤝 I’m looking for help with **Data stuff (Analytics,Science)**
 
