@@ -13,7 +13,7 @@
 
 - 📫 Reach me **vigneshbhatn27@gmail.com**
 
-- 📄 Resume: [Vignesh Bhat N Resume]([https://drive.google.com/file/d/19rqEXiNh2TIBsO_DZ5QXlLagtvotCOnx/view?usp=sharing](https://drive.google.com/file/d/1zpsQsBY8fFaaN-PLQ17BMfaYllpjzQgo/view?usp=drive_link)
+- 📄 Resume: [Vignesh Bhat N Resume](https://drive.google.com/file/d/1zpsQsBY8fFaaN-PLQ17BMfaYllpjzQgo/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
